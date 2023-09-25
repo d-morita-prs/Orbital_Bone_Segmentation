@@ -1,0 +1,13 @@
+.
+│  Inference.py
+│  weight_cpu.pth
+│
+├─images
+│      *.mhd
+│      *.zraw
+│      ***.mhd
+│      ***.zraw
+│      *****.mhd
+│      *****.zraw
+│
+└─output
